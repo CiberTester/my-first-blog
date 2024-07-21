@@ -1,0 +1,20 @@
+user: navegante
+email: mensajeenvio@gmail.com
+clave: Vientos573
+
+usuario normal
+use: navegante1
+clv: Vientos574
+
+Pythonanywhere
+
+username: Cibertest
+email: mensajeenvio@gmail.com
+password: PQFz!!=yr$v%Y&8
+API TOKEN
+739a5d4fb0def07791bad7051341f6a29b7a6104
+
+GitHub
+username: Cibertester
+email: mensajeenvio@gmail.com
+clv: 
